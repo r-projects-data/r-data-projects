@@ -57,6 +57,8 @@ This information can inform online strategy, though additional data on acquisiti
 
 ## Sentiment Analysis from Trip Advisor Reviews
 
+Therefore, to remain competitive, it's a good idea to "review the reviews"  to see what people think. Below, I conducted a sentiment analysis on the reviews by two different cohorts -- families and solo travellers. The points mentioned here can help the museum anticipate issues, and also improve the general experience people have when visiting the museum. This can then improve the overall reviews, and improve the odds of someone visiting NHM, if they're on a limited schedule.
+
 ### Family Sentiment Analysis (100 reviews):
 
 **Positive Sentiments:**
