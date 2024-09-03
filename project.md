@@ -1,6 +1,6 @@
 # NHM Commercial Analyst Project
 
-## Rakesh Kumar
+## RK
 
 Welcome to my NHM London Commercial Analyst Project.
 
