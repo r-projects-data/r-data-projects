@@ -94,4 +94,4 @@ This information can inform online strategy, though additional data on acquisiti
 
 ## Conclusion
 
-Thank you for visiting my portfolio. This project demonstrates my ability to analyze and visualize data effectively using various tools and sources. Feel free to explore more of my work on [GitHub](https://github.com/your-profile).
+Thank you for visiting my project :)
