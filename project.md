@@ -38,7 +38,7 @@ This section includes various visualizations based on multiple data sources:
 - **Geographic Profit Margin and Changes**
 
 > **Power BI Report:**  
-You can view the Power BI report by following [this link](https://app.powerbi.com/reportEmbed?reportId=504b8f09-19b6-498c-8e37-1c96ed37c6bf&autoAuth=true&ctid=2e7ae843-2214-49ec-a0be-85367aa4762c).
+You can view the Power BI report by following [this link] (https://app.powerbi.com/view?r=eyJrIjoiYWM3MmFmYTEtYjEyNi00NTVkLThlNTktYmQ2NjEzZWUzNGVkIiwidCI6IjJlN2FlODQzLTIyMTQtNDllYy1hMGJlLTg1MzY3YWE0NzYyYyJ9). 
 
 ---
 
