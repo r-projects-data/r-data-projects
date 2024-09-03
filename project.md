@@ -19,7 +19,8 @@ On this page, you will find a project I have created for the NHM commercial anal
 - **Geographic Data:** Companies House reports also provided geographic data on international market performance, highlighting markets that might warrant attention.
 
 *Note: I tend to switch between Companies House (CH) and Annual Report (AR) data where applicable.*
-*Note2: I wish I had more time to improve the formatting and general narrative discussion around this data. However, due to time constraints I was unable to do this, but would love to talk through the project at some point. Extracting and transforming this data took a little longer than expected. *
+
+_*Note2: I wish I had more time to improve the formatting and general narrative discussion around this data. However, due to time constraints I was unable to do this, but would love to talk through the project at some point. Extracting and transforming this data took a little longer than expected. *_
 
 ---
 
