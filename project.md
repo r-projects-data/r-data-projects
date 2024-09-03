@@ -1,5 +1,4 @@
 
-Here is the markdown version of your SharePoint page, formatted for GitHub. I've left placeholders for where you will insert your Power BI and Excel embed links:
 
 markdown
 Copy code
