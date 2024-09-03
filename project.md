@@ -20,7 +20,7 @@ On this page, you will find a project I have created for the NHM commercial anal
 
 *Note: I tend to switch between Companies House (CH) and Annual Report (AR) data where applicable.*
 
-Note2: I wish I had more time to improve the formatting and general narrative discussion around this data. However, due to time constraints I was unable to do this, but would love to talk through the project at some point. Extracting and transforming this data took a little longer than expected. 
+_Note2: I wish I had more time to improve the formatting and general narrative discussion around this data. However, due to time constraints I was unable to do this, but would love to talk through the project at some point. Extracting and transforming this data took a little longer than expected. _
 
 ---
 
