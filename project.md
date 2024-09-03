@@ -49,7 +49,7 @@ This section includes data extracted from the "NHM Shop Website":
 - **Pivot Table Overview:** Showcases products divided into pricing bands, using synthetic sales data to highlight total products sold per pricing band.
 
 > **Excel File:**  
-You can view the Excel pivot table by following [this link](https://datadiscoveryjournal.sharepoint.com/:x:/r/sites/NHMProject/_layouts/15/Doc.aspx?sourcedoc=%7B17291FE7-0F90-418E-8323-04B8954F806B%7D&file=NHM%20EXCEL%20FILE%20PIVOT%20TABLE2.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&login_hint=Rakesh%40DataDiscoveryJournal.onmicrosoft.com&ct=1725374259467&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&cid=00b469e0-aeb1-433a-9a95-8162a40cafbe&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=0eafd6ef-4905-4501-a897-488487197cc8).
+You can view the Excel pivot table by following [this link]([https://datadiscoveryjournal.sharepoint.com/:x:/r/sites/NHMProject/_layouts/15/Doc.aspx?sourcedoc=%7B17291FE7-0F90-418E-8323-04B8954F806B%7D&file=NHM%20EXCEL%20FILE%20PIVOT%20TABLE2.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&login_hint=Rakesh%40DataDiscoveryJournal.onmicrosoft.com&ct=1725374259467&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&cid=00b469e0-aeb1-433a-9a95-8162a40cafbe&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=0eafd6ef-4905-4501-a897-488487197cc8](https://datadiscoveryjournal.sharepoint.com/:x:/s/NHMProject/EecfKReQD45BgyMEuJVPgGsBy1mm4XSDJfWGoHgA3pvxqA?e=1GyJEA)).
 
 This information can inform online strategy, though additional data on acquisition cost per product and profit margin would be beneficial.
 
